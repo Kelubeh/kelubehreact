@@ -1,0 +1,1 @@
+.Navbar{display:flex;justify-content:space-between;align-items:center;padding:10px 40px}.Leftnav h1{font-size:24px;color:#000}.Rigthnav ul{list-style:none;display:flex;gap:15px}.Rigthnav li{display:flex;align-items:center}.icon{width:30px;height:30px;fill:#000;font-weight:700}.icon:hover{fill:#007bff;cursor:pointer}*{box-sizing:border-box;margin:0;padding:0;color:#fff}
