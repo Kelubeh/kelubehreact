@@ -2,6 +2,7 @@ import React from 'react'
 import Apps from '../../assets/Apps.svg?react'
 import Settings from '../../assets/Settings.svg?react'
 import Profile from '../../assets/Account.svg?react'
+import Games from '../../assets/Games.svg?react'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -11,6 +12,7 @@ const Navbar = () => {
         </div>
         <div className="Rigthnav">
             <ul>
+                <li><Games className="icon" /></li>
                 <li><Apps className="icon" /></li>
                 <li><Profile className="icon" /></li>
                 <li><Settings className="icon" /></li>
