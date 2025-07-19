@@ -7,7 +7,6 @@ const Footer = () => {
         <div className="footerline">
             <ul className='location'>
                 <li>Rwanda</li>
-                <li>Kgl</li>
                 <li>00:00:00</li>
             </ul>
         </div>
